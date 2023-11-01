@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-3xs: 10px;
+    --font-size-2xs-2: 10.2px;
+    --font-size-xs: 12px;
+    --font-size-base: 16px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-firebrick: #c61515;
+    --color-gray-100: #222;
+    --color-lightslategray: #918e9b;
+  
+    /* Border radiuses */
+    --br-4xs: 9px;
+    --br-11xs: 2px;
+    --br-12xs-5: 0.5px;
+  }
+  
